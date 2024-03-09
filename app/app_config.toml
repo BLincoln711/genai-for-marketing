@@ -63,7 +63,7 @@ code.code_model_name = "code-bison"
 # - page_icon: Image that goes in the browser tab.
 # - sidebar_image_path: Image that goes in the left-side menu.
 # - file_name_*: Images for this page.
-page_title = "Gen AI for Marketing"
+page_title = "Agenta AI for Marketing"
 page_icon = "/app/images/favicon.png"
 sidebar_image_path = "/app/images/menu_icon_2.png"
 file_name_1 = "/app/images/intro_home_1.1.png"
